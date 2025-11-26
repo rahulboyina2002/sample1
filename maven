@@ -15,7 +15,7 @@
     <!-- Mule Runtime -->
     <properties>
         <mule.maven.plugin.version>3.9.0</mule.maven.plugin.version>
-        <mule.runtime.version>4.6.0</mule.runtime.version>
+        <mule.runtime.version>4.7.0</mule.runtime.version>
         <mule.sdk.api.version>1.1.0</mule.sdk.api.version>
         <mule.compiler.source>11</mule.compiler.source>
         <mule.compiler.target>11</mule.compiler.target>
